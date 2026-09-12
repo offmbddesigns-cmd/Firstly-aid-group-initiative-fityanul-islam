@@ -1,10 +1,16 @@
 {
   "name": "first-aid-group-fityanul-islam",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
   "description": "Member registration, secure member portal and administration system for First Aid Group Initiative Fityanul Islam of Nigeria",
-  "main": "server.js",
-  "scripts": {"start": "node server.js"},
+  "main": "server-v3.js",
+  "scripts": {"start": "node server-v3.js"},
   "engines": {"node": ">=20"},
-  "dependencies": {"bcryptjs": "^2.4.3", "express": "^4.21.2", "express-session": "^1.18.1", "pg": "^8.13.1"}
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-pg-simple": "^10.0.0",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "pg": "^8.13.1"
+  }
 }
