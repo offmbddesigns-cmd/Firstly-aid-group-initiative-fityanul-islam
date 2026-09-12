@@ -1,0 +1,1 @@
+postgresql://fityanul_islam_members_db_user:KDFvn3g2kyxyvKrFDxcLsyd9LLRerlJY@dpg-dail5v8ae00c73evift0-a/fityanul_islam_members_db
