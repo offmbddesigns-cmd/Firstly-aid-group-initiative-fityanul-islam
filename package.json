@@ -1,0 +1,10 @@
+{
+  "name": "first-aid-group-fityanul-islam",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Member registration and approval portal for First Aid Group Initiative Fityanul Islam of Nigeria",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"bcryptjs": "^2.4.3", "express": "^4.21.2", "express-session": "^1.18.1", "pg": "^8.13.1"}
+}
